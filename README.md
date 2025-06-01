@@ -2,7 +2,7 @@
 ₊ ⊹HTML | CSS | JAVA SCRIPT | REACT |<br> PYTHON | JAVA | WEB DEVLOPENT | CLOUD | <br>DATA ANALYTICS | VIDEO EDITING | PHOTO EDITING ₊ ⊹<br>currently working on web based projects<br>have done full stack internships recently
 
 
-## 🌐 Socials:
+## 🌐 Socials -- connect me through :
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/immortal_mindzze/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/srini17) 
 
 # 💻 Tech Stack:
