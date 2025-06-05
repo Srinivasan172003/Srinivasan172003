@@ -1,5 +1,5 @@
 -# 💫 About Me:
-₊ ⊹HTML | CSS | JAVA SCRIPT | REACT |<br> PYTHON | JAVA | WEB DEVLOPENT | CLOUD | <br>DATA ANALYTICS | VIDEO EDITING | PHOTO EDITING ₊ ⊹<br>currently working on web based projects<br>have done full stack internships recently
+Experienced Full Stack Developer leveraging HTML, CSS, JavaScript, React, Python, and Java. I design and implement efficient, user-friendly web solutions.
 
 
 ## 🌐 Socials -- connect me through :
