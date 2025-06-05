@@ -1,5 +1,5 @@
 
-Experienced Full Stack Developer leveraging  proficiency in HTML, CSS, JavaScript, React, Python, and Java <br>  to build dynamic applications. I focus on creating efficient, user-centric web solutions that are both robust and scalable. Committed to continuous learning and driving impactful technological advancements.
+Experienced Full Stack Developer leveraging  proficiency in HTML, CSS, JavaScript, React, Python, and Java <br>  to build dynamic applications. I focus on creating efficient,<br>  user-centric web solutions that are both robust and scalable. Committed to continuous learning and driving impactful technological advancements.
 
 
 ## 🌐 Socials -- connect me through :
