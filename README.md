@@ -1,5 +1,5 @@
 -# 💫 About Me:
-Experienced Full Stack Developer leveraging HTML, CSS, JavaScript, React, Python, and Java. I design and implement efficient, user-friendly web solutions.
+Experienced Full Stack Developer leveraging HTML, CSS, JavaScript, React, Python, and Java.<br> I design and implement efficient, user-friendly web solutions.
 
 
 ## 🌐 Socials -- connect me through :
